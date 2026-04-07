@@ -6,7 +6,7 @@ const postamats = {
 };
 
 const Cart = () => {
-  const [step, setStep] = useState(1); // 1: Корзина, 2: Доставка, 3: Оплата, 4: Успех
+  const [step, setStep] = useState(1); 
   const [loading, setLoading] = useState(false);
   const [city, setCity] = useState('Алматы');
   const [postamat, setPostamat] = useState('Постамат #1 — ТРЦ Mega');

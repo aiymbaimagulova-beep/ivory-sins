@@ -179,7 +179,6 @@ body.cursor-hover .custom-cursor {
   padding: 0 40px;
 }
 
-/* Кнопка в стиле люкс */
 .btn-main {
   background: #000;
   color: #fff;
@@ -198,7 +197,6 @@ body.cursor-hover .custom-cursor {
   color: #000;
 }
 
-/* Эффект при наведении на товар */
 .product-card {
   transition: transform 0.25s ease, box-shadow 0.25s ease;
   cursor: pointer;
